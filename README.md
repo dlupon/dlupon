@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Header](https://capsule-render.vercel.app/api?type=venom&height=300&color=dfa4cc&text=UnBocal&reversal=false&fontColor=ffffff&descAlignY=63&animation=fadeIn&rotate=6&desc=Lupon%20Dylan)
+![Header](https://capsule-render.vercel.app/api?type=venom&height=300&color=dfa4cc&text=Lupon%20Dylan&reversal=false&fontColor=ffffff&descAlignY=63&animation=fadeIn&rotate=6&desc=UnBocal)
 ### 🎓 Game Design & Programming Student At Isart Digital
 ### 🧑‍💻 C# / Python
 ##### [🫣 Linkedin](https://www.linkedin.com/in/dylan-lupon-954937260/)  [📁 Profolio](https://sites.google.com/view/dylan-lupon/accueil)  [🕹️ Itch](https://unbocal.itch.io)
